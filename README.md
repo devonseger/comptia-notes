@@ -4,10 +4,10 @@ Welcome to my personal study notes for the **CompTIA Network+ (N10-009)** and **
 
 ## 📁 Structure
 
-- `Network+` — Notes for N10-009 covering networking fundamentals, protocols, ports, OSI model, subnetting, wireless, troubleshooting, and more.
-- `Security+` — Notes for SY0-701 covering threats, vulnerabilities, risk management, secure protocols, identity, incident response, and more.
-- `5 - Templates` — Personal Obsidian templates for note-taking (excluded from version control).
-- `.obsidian/` — Obsidian configuration files (excluded from version control).
+- `Network+` - Notes for N10-009 covering networking fundamentals, protocols, ports, OSI model, subnetting, wireless, troubleshooting, and more.
+- `Security+` - Notes for SY0-701 covering threats, vulnerabilities, risk management, secure protocols, identity, incident response, and more.
+- `5 - Templates` - Personal Obsidian templates for note-taking (excluded from version control).
+- `.obsidian/` - Obsidian configuration files (excluded from version control).
 
 ## ✅ About the Notes
 
