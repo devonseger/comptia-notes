@@ -1,0 +1,21 @@
+# Ignore Obsidian system files
+.obsidian/
+
+# Ignore file backups (if you have the plugin)
+*.md~
+
+# Ignore sync/temp/cache files
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+.cache/
+workspace.json
+
+# Ignore optional templates folder
+5 - Templates/
+
+# Node/git defaults (if needed)
+node_modules/
+.env
+dist/
